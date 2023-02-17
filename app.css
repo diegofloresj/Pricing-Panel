@@ -71,6 +71,7 @@ body {
 	flex-direction: column;
 	text-align: center;
 	text-transform: uppercase;
+	margin: 25px 20px 25px 20px;
 }
 
 .pricing-plan {
